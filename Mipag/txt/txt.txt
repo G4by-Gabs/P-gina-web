@@ -1,0 +1,5 @@
+1. Mi primera idea es que mi página sea de conocer datos importantes, 
+quiero que tenga varias secciones, una de ciencia, arte, sociedad, 
+también habrán noticias sobre cada tema. 
+En momentos importantes como por ejemplo: Pascua,
+ Navidad se harán cambios en la página.
